@@ -1,0 +1,42 @@
+Python is a high-level, interpreted, general-purpose programming language that is designed to be easy to read, easy to write, and powerful.
+
+Simple Definition
+
+Python is a programming language used to tell a computer what to do, using clear and human-readable instructions.
+
+Key Characteristics of Python
+
+High-level
+You don’t need to manage memory or hardware details.
+It focuses on logic rather than machine-level operations.
+
+Interpreted
+Python code is executed line by line.
+There is no need for compilation before running the program.
+
+Simple and Readable Syntax
+Python syntax looks close to the English language.
+Example:
+print("Hello, World!")
+
+Dynamically Typed
+There is no need to declare variable types explicitly.
+x = 10
+y = "Python"
+
+Object-Oriented and Multi-paradigm
+Python supports procedural programming, object-oriented programming, and functional programming.
+
+Large Standard Library
+Python comes with built-in modules for file handling, math, dates, networking, and system operations.
+
+Platform Independent
+The same Python code works on Windows, Linux, and macOS.
+
+What Python Is Used For
+
+Python is used in web development, data science and analytics, machine learning and artificial intelligence, automation and scripting, cloud and DevOps, game development, and desktop applications.
+
+One-Line Exam Definition
+
+Python is a high-level, interpreted, object-oriented, and dynamically typed programming language known for its simplicity and readability.
