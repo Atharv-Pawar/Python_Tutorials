@@ -1,0 +1,61 @@
+Order_ID,Beverage_Category,Beverage_Type,Size,Sweetener,Base_Ingredient,Add_On_Milk,Price_USD
+1,Tea,Black Tea,Small,Sugar,Water,Cow's Milk,2.50
+2,Tea,Black Tea,Medium,Honey,Water,Cow's Milk,3.25
+3,Tea,Black Tea,Large,Caramel,Water,Almond Milk,4.00
+4,Tea,Black Tea,Extra-Large,Stevia,Water,Soya Milk,4.75
+5,Tea,Black Tea,Small,No Sugar,Water,Cow's Milk,2.25
+6,Tea,Black Tea,Medium,Sugar,Water,Almond Milk,3.50
+7,Tea,Black Tea,Large,Honey,Water,Soya Milk,4.25
+8,Tea,Black Tea,Extra-Large,No Sugar,Water,Oat Milk,5.00
+9,Tea,Black Tea,Small,Caramel,Water,Oat Milk,2.75
+10,Tea,Black Tea,Medium,Stevia,Water,Cow's Milk,3.00
+11,Tea,Green Tea,Small,Honey,Water,No Milk,2.00
+12,Tea,Green Tea,Medium,No Sugar,Water,No Milk,2.75
+13,Tea,Green Tea,Large,Stevia,Water,Almond Milk,3.50
+14,Tea,Green Tea,Extra-Large,Sugar,Water,Soya Milk,4.25
+15,Tea,Green Tea,Small,No Sugar,Water,Cow's Milk,2.25
+16,Tea,Green Tea,Medium,Caramel,Water,Almond Milk,3.25
+17,Tea,Green Tea,Large,Honey,Water,Oat Milk,4.00
+18,Tea,Green Tea,Extra-Large,No Sugar,Water,No Milk,4.50
+19,Tea,Green Tea,Small,Stevia,Water,No Milk,2.10
+20,Tea,Green Tea,Medium,Sugar,Water,Cow's Milk,2.90
+21,Tea,Ginger Tea,Small,Honey,Water,Cow's Milk,2.75
+22,Tea,Ginger Tea,Medium,Sugar,Water,Cow's Milk,3.50
+23,Tea,Ginger Tea,Large,No Sugar,Water,Almond Milk,4.25
+24,Tea,Ginger Tea,Extra-Large,Caramel,Water,Soya Milk,5.00
+25,Tea,Ginger Tea,Small,Stevia,Water,No Milk,2.50
+26,Tea,Ginger Tea,Medium,Honey,Water,Oat Milk,3.75
+27,Tea,Ginger Tea,Large,Sugar,Water,Oat Milk,4.50
+28,Tea,Ginger Tea,Extra-Large,No Sugar,Water,Cow's Milk,5.25
+29,Tea,Ginger Tea,Small,Caramel,Water,Almond Milk,3.00
+30,Tea,Ginger Tea,Medium,No Sugar,Water,Soya Milk,3.50
+31,Coffee,Latte,Small,Sugar,Espresso,Cow's Milk,3.75
+32,Coffee,Latte,Medium,Honey,Espresso,Cow's Milk,4.50
+33,Coffee,Latte,Large,Caramel,Espresso,Almond Milk,5.25
+34,Coffee,Latte,Extra-Large,Stevia,Espresso,Soya Milk,6.00
+35,Coffee,Latte,Small,No Sugar,Espresso,Cow's Milk,3.50
+36,Coffee,Latte,Medium,Sugar,Espresso,Almond Milk,4.75
+37,Coffee,Latte,Large,Honey,Espresso,Oat Milk,5.50
+38,Coffee,Latte,Extra-Large,No Sugar,Espresso,Oat Milk,6.25
+39,Coffee,Latte,Small,Caramel,Espresso,Soya Milk,4.00
+40,Coffee,Latte,Medium,Stevia,Espresso,Cow's Milk,4.25
+41,Coffee,Latte,Small,Vanilla Syrup,Espresso,Almond Milk,4.25
+42,Coffee,Latte,Medium,Vanilla Syrup,Espresso,Oat Milk,5.00
+43,Coffee,Latte,Large,No Sugar,Espresso,Soya Milk,5.75
+44,Coffee,Latte,Extra-Large,Caramel,Espresso,Cow's Milk,6.50
+45,Coffee,Cappuccino,Small,Sugar,Espresso,Cow's Milk,3.50
+46,Coffee,Cappuccino,Medium,Honey,Espresso,Cow's Milk,4.25
+47,Coffee,Cappuccino,Large,Caramel,Espresso,Almond Milk,5.00
+48,Coffee,Cappuccino,Extra-Large,Stevia,Espresso,Soya Milk,5.75
+49,Coffee,Cappuccino,Small,No Sugar,Espresso,Cow's Milk,3.25
+50,Coffee,Cappuccino,Medium,Sugar,Espresso,Almond Milk,4.50
+51,Coffee,Cappuccino,Large,Honey,Espresso,Oat Milk,5.25
+52,Coffee,Cappuccino,Extra-Large,No Sugar,Espresso,Oat Milk,6.00
+53,Coffee,Cappuccino,Small,Caramel,Espresso,Soya Milk,3.75
+54,Coffee,Cappuccino,Medium,Stevia,Espresso,Cow's Milk,4.00
+55,Coffee,Cappuccino,Small,Vanilla Syrup,Espresso,Almond Milk,3.90
+56,Coffee,Cappuccino,Medium,Vanilla Syrup,Espresso,Oat Milk,4.75
+57,Coffee,Cappuccino,Large,No Sugar,Espresso,Soya Milk,5.50
+58,Coffee,Cappuccino,Extra-Large,Caramel,Espresso,Cow's Milk,6.25
+59,Coffee,Cappuccino,Small,No Sugar,Espresso,Almond Milk,3.40
+60,Coffee,Cappuccino,Medium,Caramel,Espresso,Soya Milk,4.60
